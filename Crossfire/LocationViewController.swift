@@ -3,7 +3,7 @@
 //  Pin-Drop POC
 //
 //  Created by Kordel France on 6/4/16.
-//  Copyright © 2016 Kade France. All rights reserved.
+//  Copyright © 2016 Kordel France. All rights reserved.
 //
 
 import Foundation
